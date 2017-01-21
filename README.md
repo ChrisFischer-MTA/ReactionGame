@@ -30,3 +30,10 @@ POST BREAK /2 op
 
 Chris' reaction benchmark
 0.210
+
+# ResponseGameBot
+
+This was a slightly quicker program written when I had no internet. This one is designed to play this game:
+http://www.humanbenchmark.com/tests/reactiontime
+
+It automagically finds the game and clicks. 
